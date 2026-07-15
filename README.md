@@ -7,4 +7,4 @@ DOWNLOAD INSTRUCTIONS:
 3. Put the .dll file in the root folder too
 4. that should be it
 
-if you have any issues just DM me on discord and I might be able to help (my user is 2ndinsight)
+if you have any issues just DM me on discord and I will likely be able to help (my user is 2ndinsight)
