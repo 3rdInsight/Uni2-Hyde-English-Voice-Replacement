@@ -2,7 +2,7 @@
 A mod for Uni2 that replaces Hyde's voicelines with his English voice from BBTAG (battle lines only, character interaction lines skipped, may eventually add other characters but idk)
 
 DOWNLOAD INSTRUCTIONS:
-1. Extract the zip folder
+1. download this folder: https://drive.google.com/drive/folders/1K37sqVZhV7NX7VHRSTpLcxFy9Vvqu2XB?usp=sharing
 2. Put the entire folder in your root folder (the thing that opens up when you click "browse local files" on steam)
 3. Put the .dll file in the root folder too
 4. that should be it
